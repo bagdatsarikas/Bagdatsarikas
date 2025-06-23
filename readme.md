@@ -13,7 +13,7 @@ I'm a data analyst who loves turning data into actionable insights.
 -  ✓ Statisitcs
 
 
-- 🌐 Visit my projects: []
-- 💼 Connect on LinkedIn: [https://www.linkedin.com/in/bagdatsarikas/]
-- ✉️ Email me: bagdatsarikas@gmail.com
+ 🌐 Visit my projects: []
+ 💼 Connect on LinkedIn: [https://www.linkedin.com/in/bagdatsarikas/]
+ ✉️ Email me: bagdatsarikas@gmail.com
 
